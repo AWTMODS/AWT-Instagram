@@ -1,7 +1,17 @@
-📼What's new in version V5.40
+{
+  "Gold": {
+    "update_code": "0",
+    "reminder_time": "3",
+    "update_version": "v9.50",
+    "com.instagram.android": "https://instagold.download/siteinsta.php",
+    "com.instagold.android": "https://instagold.download/siteinsta.php",
+    "update_message": "
+<p>Update VØªØ­Ø¯ÙŠØ« 9.50</p>
+<li>Ù…Ø´ÙƒÙ„Ø© Ø§Ù„Ø§Ù†Ù‡ÙŠØ§Ø± Ø¹Ù†Ø¯ Ø§Ù„Ø¯Ø®ÙˆÙ„ Ù„Ù„Ù…Ø­Ø§Ø¯Ø«Ø§Øª</li>
+<li>Ø¥ØµÙ„Ø§Ø­Ø§Øª Ø§Ø®Ø±Ù‰</li>
 
-➖ [Base update] 311.0.0.32.118
-☯️ [Added] All new Instagram features
-☯️ [Added] Create channels
-🍴 [Fixed] All crash problems
-🍴 [Fixed] Many Random Crash
+<li>Crash when entering chats</li>
+<li>Other fixes</li>
+"
+    }
+}
